@@ -92,7 +92,8 @@ font-family: 'Inter';
   color: black;
 }
 
-.attribution {
+@media only screen (min-width: 505){
+  .attribution {
   position: absolute;
   bottom: 0;
   right: 0;
@@ -100,4 +101,5 @@ font-family: 'Inter';
 }
 .attribution a{
   color: white;
+}
 }
