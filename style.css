@@ -91,6 +91,9 @@ font-family: 'Inter';
   background-color: var(--greenColor) ;
   color: black;
 }
+.attribution{
+  display:none;
+}
 
 @media only screen (min-width: 505){
   .attribution {
